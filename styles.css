@@ -1,0 +1,13 @@
+#name {
+	color: purple;
+}
+
+#career, span{ 
+	color: orange;
+}
+
+#intro {
+	box-sizing: content-box;
+	width: 630px;
+}
+
